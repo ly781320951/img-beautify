@@ -1,0 +1,22 @@
+﻿生成启动时间为 2018/7/29 16:15:51。
+     1>项目“D:\软件\Visual Studio\Project\img_ beautify\ExampleTest.vcxproj”在节点 2 上(build 个目标)。
+       项目文件包含 ToolsVersion="14.0"。此工具集可能未知或缺失。在这种情况下，通过安装 MSBuild 的正确版本，或许可以解决此问题。否则，该 build 可能已因策略原因而被强制为某个特定 ToolsVersion。将该项目视为其已具有 ToolsVersion="4.0"。有关详细信息，请参阅 http://go.microsoft.com/fwlink/?LinkId=291333。
+     1>InitializeBuildStatus:
+         正在创建“Debug\ExampleTest.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\软件\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "img_ beautify.cpp"
+         img_ beautify.cpp
+       Link:
+         D:\软件\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\软件\Visual Studio\Project\img_ beautify\Debug\ExampleTest.exe" /NOLOGO opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_ml2410d.lib opencv_nonfree2410d.lib opencv_objdetect2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_videostab2410d.lib opencv_ml2410d.lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_objdetect2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_nonfree2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_videostab2410d.lib opencv_objdetect2410.lib opencv_ts2410.lib opencv_video2410.lib opencv_nonfree2410.lib opencv_ocl2410.lib opencv_photo2410.lib opencv_stitching2410.lib opencv_superres2410.lib opencv_videostab2410.lib opencv_calib3d2410.lib opencv_contrib2410.lib opencv_core2410.lib opencv_features2d2410.lib opencv_flann2410.lib opencv_gpu2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_legacy2410.lib opencv_ml2410.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ExampleTest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\软件\Visual Studio\Project\img_ beautify\Debug\ExampleTest.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\软件\Visual Studio\Project\img_ beautify\Debug\ExampleTest.lib" /MACHINE:X86 "Debug\img_ beautify.obj"
+         LINK : 没有找到 D:\软件\Visual Studio\Project\img_ beautify\Debug\ExampleTest.exe 或上一个增量链接没有生成它；正在执行完全链接
+         ExampleTest.vcxproj -> D:\软件\Visual Studio\Project\img_ beautify\Debug\ExampleTest.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\软件\Visual Studio\Project\img_ beautify\Debug\ExampleTest.exe;#1" /manifest Debug\ExampleTest.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\ExampleTest.unsuccessfulbuild”。
+         正在对“Debug\ExampleTest.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\软件\Visual Studio\Project\img_ beautify\ExampleTest.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.09
